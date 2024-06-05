@@ -89,7 +89,7 @@ Open the CSV file with Excel to double-check the points.
 
 
 
-Hope you like this try, for comments or suggestions, please leave message at wjian88@gmail.com. Thank you.  
+Hope you like this try, for comments or suggestions, please leave messages at wjian88@gmail.com. Thank you.  
 
 Wang Jian, 2024 Mar 30.    
 
