@@ -66,7 +66,7 @@ curve_coordinates = random.sample(list(curve_coordinates), max_points)
   >> ['linear','zero', 'slinear', 'quadratic', 'cubic']
   >> y_new=f(x_new)
 
-
+<b>
 
 > ### 2.4 point coordinate value re-scale
 >> The function will rescale point coordinate range, by X_start, X_end in X axis and  Y_start, Y_end in Y axis: 
