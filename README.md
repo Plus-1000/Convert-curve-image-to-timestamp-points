@@ -16,8 +16,8 @@ The image can be a photo of a hand-drawn curve or one captured from a webpage. I
 
 ## Step 2: Convert image to points 
 > ### 2.1 Image Recognition
->>  The img_recg() function will generate points from the image. The number of points and their positional accuracy depend on the size of the picture. Typically, this will create thousands of points. The number of points can be controlled by using:
-curve_coordinates = random.sample(list(curve_coordinates), max_points)
+  The img_recg() function will generate points from the image. The number of points and their positional accuracy depend on the size of the picture. Typically, this will create thousands of    points. The number of points can be controlled by using:
+  curve_coordinates = random.sample(list(curve_coordinates), max_points)
 
 
 <p align="center">
