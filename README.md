@@ -52,13 +52,13 @@ curve_coordinates = random.sample(list(curve_coordinates), max_points)
 > ### 2.3 Point 2D Interpolation
 >>X_step is the total number of points we ultimately want, which may differ from the number of points obtained from the previous process. At this stage, we introduce 2D point interpolation to achieve the desired number of points.
 
-<br/>
+<b>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.3%20create%20through%20curves%20face%20from%20splines.jpg width="600" >
 </p>
 
-<br/>
-__x_new = np.linspace(x_array.min(), x_array.max(), steps)
+<b>
+>>x_new = np.linspace(x_array.min(), x_array.max(), steps)
 f= interpolate.interp1d(x_array, y_array,kind="cubic") 
 # ['linear','zero', 'slinear', 'quadratic', 'cubic', 4, 5]
 y_new=f(x_new)  
