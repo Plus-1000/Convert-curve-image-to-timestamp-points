@@ -58,7 +58,8 @@ curve_coordinates = random.sample(list(curve_coordinates), max_points)
 </p>
 
 <b>
->>x_new = np.linspace(x_array.min(), x_array.max(), steps)
+>>
+x_new = np.linspace(x_array.min(), x_array.max(), steps)
 f= interpolate.interp1d(x_array, y_array,kind="cubic") 
 # ['linear','zero', 'slinear', 'quadratic', 'cubic', 4, 5]
 y_new=f(x_new)  
