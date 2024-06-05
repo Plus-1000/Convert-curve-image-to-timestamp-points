@@ -74,11 +74,7 @@ y_new=f(x_new)
 
 >>After All Steps, the point coordinates are written to current_folder/04_after_scale.csv.
 
-> ### 2.5 Generate toolpath
-> > Continue from the last step, we start the journal recording, create the machining operation in the same NX file, select face "EXTRACE01" as Drive Method, create tools and toolpath, stop the recording, and save.
-<p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5a%20create%20toolpath.JPG width="600" >
-<br/>
+
 
 
 
