@@ -8,12 +8,7 @@ This test aims to convert curve images into timestamped points, it may helpping 
 ## **Step 1: Prepare the curve image.**  
 The image can be a photo of a hand-drawn curve or one captured from a webpage. If necessary, adjust the brightness and contrast using FastStone or other apps. If you're proficient with Pillow, you can automate these adjustments using your own formula. 
 
-
-
-
-
-When the probe hits part along the Z- direction, we can get the Z coordinate of the destining point, the reading pt in the diagram below.
-As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to the txt file. We plan to check 20 points in this step, the point file was stored in the CNC controller in txt or .NC format.   
+ 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1%20probe%2020%20pts.jpg width="600" >
 <b>
