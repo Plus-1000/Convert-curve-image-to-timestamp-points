@@ -10,7 +10,7 @@ The image can be a photo of a hand-drawn curve or one captured from a webpage. I
 
  
 <p align="center">
-<img src=<./Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/after recg.jpg width="600" >
+<img src=<./after recg.jpg width="600" >
 <b>
 
 
