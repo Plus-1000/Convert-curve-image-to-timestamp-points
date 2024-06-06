@@ -21,7 +21,7 @@ The image can be a photo of a hand-drawn curve or one captured from a webpage. I
 
 
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1a%20read%20points%20from%20csv.jpg width="600" >
+<img src=./image/2.1a%20read%20points%20from%20csv.jpg width="600" >
 <b>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="600" >
