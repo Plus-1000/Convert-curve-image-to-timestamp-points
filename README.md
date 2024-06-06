@@ -10,7 +10,7 @@ The image can be a photo of a hand-drawn curve or one captured from a webpage. I
 
  
 <p align="center">
-<img src=<after recg.jpg width="600" >
+<img src=[<after recg.jpg](https://github.com/Plus-1000/Convert-curve-image-to-timestamp-points/blob/main/after%20recg.JPG) width="600" >
 <b>
 
 
